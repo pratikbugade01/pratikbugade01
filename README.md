@@ -15,8 +15,6 @@
   - 🎥 **[YouTube RAG Chatbot](https://github.com/pratikbugade01/YouTube-RAG-Chatboat)** — FastAPI + LangChain + FAISS + Groq LLM
   - 🤖 **[AI Customer Feedback System](https://github.com/pratikbugade01/AI-Customer-Feedback-System)** — AI-powered feedback analysis
   - 🛸 **[Unmanned Space Mission](https://github.com/pratikbugade01/Unmanned-Space-Mission)** — ESP32-CAM based space rover simulation
-  - 🧠 **[Deep Learning](https://github.com/pratikbugade01/Deep-Learning)** — Neural networks & model experiments
-  - 📊 **[Machine Learning](https://github.com/pratikbugade01/Machine_Learning)** — ML algorithms & notebooks
   - ⚡ **[FastAPI Project](https://github.com/pratikbugade01/FastAPI_Project)** — REST APIs with FastAPI & Pydantic
   - 🌐 **[Portfolio](https://github.com/pratikbugade01/Portfolio)** — Personal portfolio (TypeScript)
 
